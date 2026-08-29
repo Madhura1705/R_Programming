@@ -1,5 +1,11 @@
 # Image Recognition and Classification with R
 
+## Reference Video
+
+The project was implemented by following the prescribed video tutorial provided in the laboratory assignment.
+
+[Reference Video – Image Recognition and Classification](https://www.youtube.com/watch?v=iExh0qj2Ouo)
+
 ## Objective
 
 The objective of this project is to implement an image recognition and classification system using R Programming. The project demonstrates image loading, preprocessing, reshaping, dataset preparation, neural network construction, model training, evaluation, and prediction using R.
