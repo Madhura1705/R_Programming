@@ -43,21 +43,21 @@ Consistency > perfection! 💪
 ### 🟢 Week 2
 📓 **R Programming Week 2**
 
-[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_02.ipynb)
+[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_2.ipynb)
 
 ---
 
 ### 🟢 Week 3
 📓 **R Programming Week 3**
 
-[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_03.ipynb)
+[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_3.ipynb)
 
 ---
 
 ### 🟢 Week 4
 📓 **R Programming Week 4**
 
-[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_04.ipynb)
+[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_4.ipynb)
 
 ---
 
@@ -71,28 +71,28 @@ Consistency > perfection! 💪
 ### 🟢 Week 6
 📓 **R Programming Week 6**
 
-[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_06.ipynb)
+[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_6.ipynb)
 
 ---
 
 ### 🟢 Week 7
 📓 **R Programming Week 7**
 
-[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_07.ipynb)
+[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_7.ipynb)
 
 ---
 
 ### 🟢 Week 8
 📓 **R Programming Week 8**
 
-[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_08.ipynb)
+[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_8.ipynb)
 
 ---
 
 ### 🟢 Week 9
 📓 **R Programming Week 9**
 
-[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_09.ipynb)
+[Open Notebook](./24102C2002_R%20PROGRAMMING/R_Programming_Week_9.ipynb)
 
 ---
 
